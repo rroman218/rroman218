@@ -55,7 +55,7 @@ Here are some ideas to get you started:
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GhbHjhv&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Roman Romanko&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
 </p>
 
 <p align="center">
