@@ -55,12 +55,13 @@ Here are some ideas to get you started:
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YourGitHubUsername&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GhbHjhv&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YourGitHubUsername&theme=dark&hide_border=true" alt="GitHub Streak" />
-</p> 
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GhbHjhv&theme=dark&hide_border=true" alt="GitHub Streak" />
+</p>
+
 
 ---
 
