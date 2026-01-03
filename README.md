@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=rroman218&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Roman Romanko</h1>
